@@ -1,3 +1,1 @@
 # Cristian G. Guasch
-
-Testing
